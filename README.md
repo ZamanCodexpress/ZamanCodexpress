@@ -1,7 +1,19 @@
 ## Hi there 👋
 
 # 💫 About Me:
-My name is Zaman Siraj, and I am the founder of a growing tech initiative called CodeXpress. I am a full-stack web developer, content creator, and technology educator who is passionate about building software and sharing knowledge with others.<br><br>Through CodeXpress, my goal is to make programming and technology more accessible to beginners and aspiring developers. I focus on creating educational content, tutorials, and practical learning resources that help people understand programming in a simple and effective way.<br><br>In addition to development, I actively create content on social platforms such as YouTube, where I teach topics related to web development, programming fundamentals, and modern technology tools. My aim is to help beginners start their journey in tech and guide them step-by-step toward becoming skilled developers.<br><br>Alongside coding and teaching, I am also a public speaker who enjoys presenting ideas, explaining technology concepts, and sharing my projects with others. I often demonstrate the things I build and talk about how technology can be used to create real solutions.<br><br>Another important part of my journey is continuous learning. Even while building projects and teaching others, I constantly work on improving my skills and learning new technologies to expand my knowledge in the tech field.<br><br>What makes my journey especially unique is that I started very early. At just 12 years old, while many students around my age are beginning to learn tools like Scratch or basic Python in school, I am already developing full-stack web applications, building a tech initiative, teaching programming, and sharing knowledge online.<br><br>My mission is simple: to build technology, inspire others to learn programming, and make tech education easier and more accessible for everyone.
+My name is Zaman Siraj, the founder of CodeXpress, a growing tech initiative focused on making programming and technology easier to learn. I am a full-stack web developer, content creator, and technology educator who enjoys building software and sharing knowledge with others.
+
+Through CodeXpress, I create educational content, tutorials, and practical learning resources to help beginners understand programming in a simple and effective way.
+
+I also create content on platforms like YouTube, where I teach web development, programming fundamentals, and modern technology tools, helping beginners start their journey in tech step by step.
+
+In addition to development and teaching, I am a public speaker who enjoys presenting ideas, explaining technology concepts, and showcasing the projects I build.
+
+I strongly believe in continuous learning, so while building projects and teaching others, I constantly improve my skills and explore new technologies.
+
+What makes my journey unique is that I started very early. At just 12 years old, while many students are beginning with basic programming tools, I am already building full-stack applications, running a tech initiative, teaching programming, and sharing knowledge online.
+
+My mission is to build technology, inspire others to learn programming, and make tech education accessible to everyone.
 
 
 ## 🌐 Socials:
