@@ -1,74 +1,20 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🚀 Hi, I'm Zaman Siraj!
 
-I am the founder of CodeXpress, a growing tech initiative focused on making programming and technology easier to learn for everyone.
+My name is Zaman Siraj, the founder of CodeXpress, a growing tech initiative focused on making programming and technology easier to learn. I am a full-stack web developer, content creator, and technology educator who enjoys building software and sharing knowledge with others.
 
-💻 I am a Full-Stack Web Developer, Content Creator, and Technology Educator who loves building software and sharing knowledge with others.
+Through CodeXpress, I create educational content, tutorials, and practical learning resources to help beginners understand programming in a simple and effective way.
 
-🌐 What I Do
+I also create content on platforms like YouTube, where I teach web development, programming fundamentals, and modern technology tools, helping beginners start their journey in tech step by step.
 
-Through CodeXpress, I create:
+In addition to development and teaching, I am a public speaker who enjoys presenting ideas, explaining technology concepts, and showcasing the projects I build.
 
-📚 Educational content
-🎥 Step-by-step tutorials
-🛠 Practical programming resources
+I strongly believe in continuous learning, so while building projects and teaching others, I constantly improve my skills and explore new technologies.
 
-All designed to help beginners learn programming in a simple, clear, and effective way.
+What makes my journey unique is that I started very early. At just 12 years old, while many students are beginning with basic programming tools, I am already building full-stack applications, running a tech initiative, teaching programming, and sharing knowledge online.
 
-🎬 Creating Tech Content
-
-I also create content on platforms like YouTube, where I teach:
-
-⚡ Web Development
-🧠 Programming Fundamentals
-🧰 Modern Technology Tools
-
-My goal is to help beginners start their journey in tech step-by-step and build real skills.
-
-🎤 Public Speaking
-
-Besides development and teaching, I enjoy public speaking.
-
-I love:
-
-🗣 Explaining technology concepts
-💡 Presenting ideas
-🚀 Showcasing the projects I build
-
-📈 Always Learning
-
-Technology never stops evolving — and neither do I.
-
-While building projects and teaching others, I continuously:
-
-🔍 Explore new technologies
-📖 Learn new skills
-⚙️ Improve my development abilities
-
-🌟 What Makes My Journey Unique
-
-One of the most exciting parts of my journey is that I started very early.
-
-At just 12 years old, while many students are just beginning with basic programming tools, I am already:
-
-💻 Building full-stack applications
-🏢 Running a tech initiative (CodeXpress)
-🎓 Teaching programming
-🌍 Sharing knowledge online
-
-🎯 My Mission
-
-My mission is simple:
-
-🚀 Build technology
-📚 Inspire others to learn programming
-🌍 Make tech education accessible to everyone
-
-✨ Building. Learning. Teaching. Inspiring.
-
-— Zaman Siraj
+My mission is to build technology, inspire others to learn programming, and make tech education accessible to everyone.
 
 ## 🌐 Socials:
 
