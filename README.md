@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Zaman Siraj</strong>
+</h1>
+
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 # 💫 About Me:
 
@@ -16,7 +21,7 @@ What makes my journey unique is that I started very early. At just 12 years old,
 
 My mission is to build technology, inspire others to learn programming, and make tech education accessible to everyone.
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Zaman-Siraj) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_codexpress_/) 
@@ -24,6 +29,7 @@ My mission is to build technology, inspire others to learn programming, and make
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zsiraj531@gmail.com )
 
 # 💻 Tech Stack:
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,6 +45,7 @@ My mission is to build technology, inspire others to learn programming, and make
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=ZamanCodexpress&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ZamanCodexpress&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZamanCodexpress&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
