@@ -66,8 +66,6 @@ My mission is to build technology, inspire others to learn programming, and make
   <img src="https://streak-stats.demolab.com?user=ZamanCodexpress&theme=radical&hide_border=true&border_radius=8" height="180"/>
 </div>
 
-<br/>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZamanCodexpress&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&border_radius=8" width="45%"/>
 </div>
