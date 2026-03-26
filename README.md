@@ -21,6 +21,18 @@ What makes my journey unique is that I started very early. At just 12 years old,
 
 My mission is to build technology, inspire others to learn programming, and make tech education accessible to everyone.
 
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ZamanCodexpress&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20things%20that%20matter%20%F0%9F%9A%80&descAlignY=58&descSize=18"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6EFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Zaman+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG"/>
+</div>
+
+<br/>
+
 # 🌐 Socials:
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Zaman-Siraj) 
@@ -44,13 +56,20 @@ My mission is to build technology, inspire others to learn programming, and make
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZamanCodexpress&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ZamanCodexpress&theme=dark&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZamanCodexpress&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=ZamanCodexpress&theme=radical&hide_border=true&border_radius=8" height="180"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZamanCodexpress&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZamanCodexpress&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&border_radius=8" width="45%"/>
 </div>
+
+---
