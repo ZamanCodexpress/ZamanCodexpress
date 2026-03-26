@@ -44,8 +44,13 @@ My mission is to build technology, inspire others to learn programming, and make
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ZamanCodexpress&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ZamanCodexpress&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZamanCodexpress&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZamanCodexpress&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ZamanCodexpress&theme=dark&hide_border=false" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZamanCodexpress&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%"/>
+</div>
