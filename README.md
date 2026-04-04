@@ -58,16 +58,3 @@ My mission is to build technology, inspire others to learn programming, and make
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZamanCodexpress&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=ZamanCodexpress&theme=radical&hide_border=true&border_radius=8" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZamanCodexpress&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&border_radius=8" width="45%"/>
-</div>
-
----
